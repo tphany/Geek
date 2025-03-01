@@ -1,0 +1,88 @@
+{
+  "Articulos": [
+    {
+      "id": "1",
+      "nombre": "Audífono de Gato Bluetooth con Función MP3 y Micrófono",
+      "descripcion": "Audífono de Gato Bluetooth",
+      "precio": 14990,
+      "url": "images/audifonos-gatito.jpeg"
+    },
+    {
+      "id": "2",
+      "nombre": "Figura Jinx La Bala Perdida Original League Of Legends 28cm",
+      "descripcion": "Figura Jinx League Of Legends",
+      "precio": 36990,
+      "url": "https://m.media-amazon.com/images/I/61u3Qls2nnL._AC_SL1024_.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Dragon Ball Z Blue-ray Disc Episodios 271 a 291",
+      "descripcion": "Dragon Ball Z Blue-ray",
+      "precio": 17990,
+      "url": "images/dbz1.jpg"
+    },
+    {
+      "id": "4",
+      "nombre": "Teclado mecánico switch azul",
+      "descripcion": "Teclado mecánico",
+      "precio": 22990,
+      "url": "images/teclado.jpeg"
+    },
+    {
+      "id": "5",
+      "nombre": "Silla gamer reclinable y ajustable",
+      "descripcion": "Silla gamer",
+      "precio": 120990,
+      "url": "images/silla gamer.jpeg"
+    },
+    {
+      "id": "6",
+      "nombre": "Peluches Skzoo De Stray Kids Variedades K-pop",
+      "descripcion": "Peluches Skzoo De Stray Kids",
+      "precio": 8990,
+      "url": "images/wolfchan.jpg"
+    },
+    {
+      "id": "7",
+      "nombre": "Consola Game Boy Sup con 400 Juegos Recargable + 1 Control",
+      "descripcion": "Consola Game Boy Sup",
+      "precio": 19990,
+      "url": "images/gameboy.jpg"
+    },
+    {
+      "id": "8",
+      "nombre": "Control Inalámbrico Microsoft Xbox Series S Azul",
+      "descripcion": "Control inalámbrico Xbox",
+      "precio": 74990,
+      "url": "images/control xbox.jpg"
+    },
+    {
+      "id": "9",
+      "nombre": "Deadpool & Wolverine con Babypool Funko Pop! Vinyl Figure #1403 and Buddy",
+      "descripcion": "Figura Funko Pop de Deadpool & Wolverine",
+      "precio": 17990,
+      "url": "images/pop wolverine.jpg"
+    },
+    {
+      "id": "0fd1",
+      "nombre": "Peluche de Pokemon Snorlax 50cms",
+      "descripcion": "Peluche Pokemon Snorlax",
+      "precio": "36990",
+      "url": "https://item-shopping.c.yimg.jp/i/n/bakuyasuearth_4521329347332_1_d_20220927170254"
+    },
+    {
+      "id": "662f",
+      "nombre": "Taza de Shiba Inu",
+      "descripcion": "Taza de Shiba Inu",
+      "precio": "8990",
+      "url": "https://th.bing.com/th/id/OIP.34L1ZEjS-J2uyy_sc-VZ_AHaHa?w=500&h=500&rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "e976",
+      "nombre": "Gato",
+      "descripcion": "Gatito naranja",
+      "precio": "free",
+      "url": "https://static.nationalgeographic.es/files/styles/image_3200/public/nationalgeographic_1468962.jpg?w=1600"
+    }
+  ]
+}
